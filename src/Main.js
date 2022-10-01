@@ -19,7 +19,7 @@ const Main = () => {
     }, 1000);
   }, [count]);
   
-  const myInterval = setInterval;
+  // const myInterval = setInterval;
   
 
   return (
